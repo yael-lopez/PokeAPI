@@ -1,0 +1,14 @@
+body{
+    background-color: #eee;
+}
+
+h1{
+    text-transform: lowercase;
+    text-align: center;
+}
+
+h1 span{
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #F43E3E;
+}
